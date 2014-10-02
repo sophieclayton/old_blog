@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 # What do biological oceanography and database queries have in common?
