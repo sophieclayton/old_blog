@@ -17,7 +17,3 @@ author:
   url:            http://sophieclayton.github.io
   email:          sclayton@uw.edu
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
