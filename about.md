@@ -2,29 +2,5 @@
 layout: page
 title: About
 ---
-
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+ 
+I'm an oceanographer working in the Biological Oceanography department of the University of Washington's School of Oceanography. My research is mostly concerned with observing and understanding patterns in phytoplankton community structure and biodiversity in the oceans. Although I work with data and models spanning a range of spatial and temporal scales, my real interest lies at the meso- and submesoscales, where the characteristic time and space scales of phytoplankton and ocean physics coincide. I have a background in physical oceanography (Physical Oceanography PhD, MIT/WHOI Joint Program) along with extensive experience collecting biological and physical data at sea, and collaborating with phytoplankton ecologists.
