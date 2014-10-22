@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 title:            Sophie Clayton
-tagline:          Researching bio-physical interactions in the oceans
+tagline:          Researching bio-physical interactions in the oceans, playing with code and seawater
 url:              http://getpoole.com
 paginate:         1
 baseurl:          /
