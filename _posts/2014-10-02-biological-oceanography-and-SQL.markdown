@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## What do biological oceanography and database queries have in common?
