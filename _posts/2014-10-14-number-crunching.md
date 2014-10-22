@@ -10,4 +10,4 @@ My big job for the week is to put data from different oceanographic instruments,
 
 I uploaded all of my data to the [UW SQLshare database](https://sqlshare.escience.washington.edu/sqlshare/), and have been running queries through the online interface. Today has been a big success, I've processed 5 of the 8 cruises that still have underway data missing in the [Myria database](http://demo.myria.cs.washington.edu/). 
 
-tag: incubator, sql
+tags: incubator, sql
