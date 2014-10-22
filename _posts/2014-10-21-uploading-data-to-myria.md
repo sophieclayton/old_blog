@@ -10,4 +10,4 @@ Now for the pitfall... Some of the data was uploaded in the wrong format (LONG_T
 
 While the long/string debacle was a bit of a pain, I did start putting some python code into ipython notebooks for visualising the data once I manage to extract it. Next job on this front will be to try to develop a python pipeline to submit queries to Myria, extract the results and produce figures without fiddling around with .csv files and Matlab.
 
-tag: incubator, myria, python
+tags: incubator, myria, python
