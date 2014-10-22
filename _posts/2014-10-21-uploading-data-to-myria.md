@@ -1,5 +1,6 @@
 ---
 published: true
+layout: post
 ---
 
 ## Uploading data to the Myria database: success and pitfalls
