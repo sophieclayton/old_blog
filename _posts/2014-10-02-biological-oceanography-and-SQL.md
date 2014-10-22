@@ -1,6 +1,7 @@
 ---
 published: true
 layout: post
+title: Biological Oceanography and SQL
 ---
 
 ## What do biological oceanography and database queries have in common?
