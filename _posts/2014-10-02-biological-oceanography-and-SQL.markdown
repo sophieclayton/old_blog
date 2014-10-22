@@ -8,4 +8,4 @@ This is something that I've been thinking about and working on since December la
 
 As part of the UW's eScience Incubator program, I'm working with Dan Halperin and Bill Howe to analyse a large dataset of underway flow cytometry data using the UW's Myria database.  
 
-tag: incubator, seaflow
+tags: incubator, seaflow
