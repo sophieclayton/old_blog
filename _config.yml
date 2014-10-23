@@ -14,7 +14,7 @@ url:              http://sophieclayton.github.io
 avatar_url:       http://avatars3.githubusercontent.com/u/7740937?v=2&s=460
 
 paginate:         3
-baseurl:          http://sophieclayton.github.io
+baseurl:          
 author:
   name:           Sophie Clayton
   url:            http://sophieclayton.github.io
