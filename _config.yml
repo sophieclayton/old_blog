@@ -7,10 +7,12 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Sophie Clayton
-tagline:          Bio-Physical Interactions in the Ocean
+title:            "Sophie Clayton"
+tagline:          "Bio-Physical Interactions in the Oceans"
 description:      "Researching bio-physical interactions in the oceans, playing with code and seawater"
 url:              http:sophieclayton.github.io
+avatar_url:       http://
+
 paginate:         3
 baseurl:          /
 author:
