@@ -560,3 +560,11 @@ a.pagination-item:hover {
 .sidebar-item h2 {
 	color: #313131;
 }
+
+.sidebar-logo img {
+	border-radius: 50%;
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	width: 160px;
+	margin: 0 auto;
+}
