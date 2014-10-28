@@ -6,7 +6,7 @@ title: IPython notebooks for teaching
 
 ## IPython notebooks as a teaching tool... hopefully!
 
-I'm teaching a numerical modelling practical for the UW's OCN430 class this Thursday. My plan is to base the class on Gordon Riley's uber-cool 1946 paper which develops a statistical and mechanistic model for phytoplankton dynamics on the George's Bank. It's a classic that anyone interested in phytoplankton ecology/biological modelling needs to read. Here' the reference, go read it!
+I'm teaching a numerical modelling practical for the UW's OCN430 class this Thursday. My plan is to base the class on Gordon Riley's uber-cool 1946 paper which develops a statistical and mechanistic model for phytoplankton dynamics on the George's Bank. It's a classic that anyone interested in phytoplankton ecology/biological modelling needs to read. Here's the reference, go read it!
 
 Riley, G. A. (1946) Factors Controlling Phytoplankton Populations on George's Bank. *J. Mar. Res.* **6**, pp 54-73
 
