@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+title: IPython notebooks for teaching
 ---
 
 ## IPython notebooks as a teaching tool... hopefully!
