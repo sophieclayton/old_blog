@@ -1,3 +1,0 @@
-## Numerical modelling practical for undergrads, minus IPython
-
-I taught a numerical modelling practical for upper level undergraduates today. I'd hoped to be able to use IPython notebooks to fully immerse the students with the code, but it wasn't meant to be...
