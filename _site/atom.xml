@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Poole</title>
+ <link href="http://getpoole.com/atom.xml" rel="self"/>
+ <link href="http://getpoole.com/"/>
+ <updated>2014-10-02T10:43:37-07:00</updated>
+ <id>http://getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email>markdotto@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Biological Oceanography And Sql</title>
+   <link href="http://getpoole.com//2014/10/02/biological-oceanography-and-sql/"/>
+   <updated>2014-10-02T00:00:00-07:00</updated>
+   <id>http://getpoole.com/2014/10/02/biological-oceanography-and-sql</id>
+   <content type="html">&lt;h1&gt;What do biological oceanography and database queries have in common?&lt;/h1&gt;
+
+&lt;p&gt;This is something that I&amp;#39;ve been thinking about and working on since December last year... And not something that I ever imagined that I&amp;#39;d care about. But there we go, that&amp;#39;s science for you. &lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
