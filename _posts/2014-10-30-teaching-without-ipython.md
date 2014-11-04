@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: UNdergrad numerical modelling practical
+title: Undergrad numerical modelling practical
 ---
 
 ## Numerical modelling practical for undergrads, minus IPython
