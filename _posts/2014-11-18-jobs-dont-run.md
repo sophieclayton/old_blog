@@ -14,5 +14,3 @@ My queries just wouldn't run to completion because of the volume of work the clu
 Thankfully I had plenty of other work to get done, and my query was finally run at the end of the day in less than 8 minutes.
 
 tags: incubator, myria, seaflow
-
-...
