@@ -1,8 +1,8 @@
-----------------------------------
+---
 published: false
 layout: post
 title: Revisiting diversity indices
-----------------------------------
+---
 
 # Rescaling data and revisiting diversity indices
 
