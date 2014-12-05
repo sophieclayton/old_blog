@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Data science incubator wrap-up
 ---
